@@ -2,14 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23873d14-ab55-4211-b0b3-2ae36e2057a5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neiroweb/web/CreateFromString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neiroweb/web/main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/A.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/A.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/aa.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ё.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/А.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Б.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/В.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Г.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Д.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Е.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ж.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/З.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/И.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Й.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/К.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Л.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/М.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Н.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/О.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/П.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Р.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/С.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Т.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/У.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ф.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Х.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ц.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ч.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ш.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Щ.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ъ.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ы.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ь.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Э.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ю.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Я.bmp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nweb.iml" afterPath="$PROJECT_DIR$/nweb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/neiroweb/web/Neuron.java" afterPath="$PROJECT_DIR$/src/main/java/com/neiroweb/web/Neuron.java" />
     </list>
     <ignored path="nweb.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -430,6 +460,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nweb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane">
@@ -750,6 +794,13 @@
       <option name="number" value="Default" />
       <updated>1451417406900</updated>
     </task>
+    <task id="LOCAL-00001" summary="08.01">
+      <created>1452237760878</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452237760878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -775,13 +826,13 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870865" sideWeight="0.4980348" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22627737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22627737" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17289221" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24985963" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38420492" sideWeight="0.4980348" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38420492" sideWeight="0.4980348" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -823,6 +874,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="08.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="08.01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
